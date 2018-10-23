@@ -10,6 +10,6 @@
   display: none;
 }
 
-#wall #tage-3 #parent+#tag-4 {
+#wall #tage-3+#parent #tag-4 {
   display: none;
 }
